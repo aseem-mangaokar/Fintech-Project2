@@ -1,8 +1,8 @@
 # **Fintech-Project2**
 
  ## **Generating hourly and daily trade signals for SQ and XRP using select indicators**
---
-#Technical Indicators used:
+
+# Technical Indicators used:
 --
     - RELATIVE STRENGTH INDEX
     - AROON INDICATOR
@@ -12,7 +12,7 @@
 
 
 ##  Combining multiple trade signals using Random Forest Classifiers
---
+
 - SQ
     - Buy and Hold strategy: 346.72% profit
     - Daily RFC: 290.33% profit/ ACC score 0.5274
@@ -25,7 +25,7 @@
     - Combo Daily/Hourly RFC: 
 
 ## Evaluating our combo daily/hourly models with Deep Neural Net
---
+
 - SQ
     - Combo RFC: 50.2% accuracy
 - XRP
