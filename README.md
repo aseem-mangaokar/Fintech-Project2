@@ -2,7 +2,8 @@
 
  ## **Generating hourly and daily trade signals for SQ and XRP using select indicators**
 --
-###Technical Indicators used:
+#Technical Indicators used:
+--
     - RELATIVE STRENGTH INDEX
     - AROON INDICATOR
     - MOVING AVERAGE CONVERGENCE / DIVERGENCE
